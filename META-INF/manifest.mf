@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8x1SiQd6rnUvETJjsJWCC+RLGkI=
+SHA256-Digest: tUwj57jC0soBy7mjIQS2zrt92TC+eGgcLIHVNNGFqzE=
+
+Name: contentScript/mycutebabyVote.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VVrPX1lNgkbD2n5J4EI6EH9hI+8=
+SHA256-Digest: x1XIznshtFQI06OoYNlR53b02EZSgdOdU3xumXPIwXk=
+
+Name: icons/favicon-32x32.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 9w4DafKL4dZaW6CWf9wTjJjqbHc=
+SHA256-Digest: XbLonEBXMb+wUBi9V5fnYYkMfzZQK7ZJv4Tg0CchG0k=
+
+Name: icons/android-chrome-512x512.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: zc979Cimk+X6TbQWCw3dKcDdhRU=
+SHA256-Digest: Nphx9vMN4Lbrvumaux4KdFpP7QzCkQOOoCTom0aUC/M=
+
+Name: icons/android-chrome-192x192.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: H07e9g0je2+qfD0INaEC/SimS7A=
+SHA256-Digest: 4/dO0Du+H8bFpwSiwA2unrD/eonyKuwCAm82o3OJHwI=
+
+Name: icons/favicon-16x16.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 0CMvOc9rAcGeSP6BReXNb+9rHgs=
+SHA256-Digest: zZWd279DHQeJnwCslx0osX32dW6dm1q45gW9lEtF3dc=
+
+Name: icons/apple-touch-icon.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: GX4rGszMDx/u7aS22VDSZvT26tM=
+SHA256-Digest: h+L6xK52ID84UYgpFLI8HInjCWH1eEOMXBJ5oCsFI8I=
+
+Name: icons/kathir-favicon.ico
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: OpPkgiqcfi+6io5HglFdGWnr180=
+SHA256-Digest: 5jFBSFGoKBpDvcRU17le6APH1ktDGb5/tZ+lxZbfps4=
+
+Name: META-INF/cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /jHPP6+ZRlqj6YWQ07sAeYb/SVQ=
+SHA256-Digest: rCtFVofQZFLi9/bCCkvnk6JXplnxIsf8NuozNTqggcM=
+
+Name: META-INF/cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: yhvLqzcWuUU1dxeDSUQ3Lb2e74o=
+SHA256-Digest: lXor5ajRClEuoNCNg8nXAPlO+P3nIgX1rkIJJp8jtu8=
+

@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name": "My Cute Baby Vote",
+    "Description": "Script to vote in MyCuteBaby.in",
+    "version": "1.0",
+    "icons": {
+        "64": "icons/kathir-favicon.ico"
+    },
+    "content_scripts": [
+        {
+            "js": ["contentScript/mycutebabyVote.js"],
+            "matches": ["*://*.mycutebaby.in/*"],
+            "run_at": "document_idle"
+        }
+    ],
+    "permissions": [
+        "storage",
+        "cookies",
+        "webNavigation",
+        "tabs",
+        "*://dev.to/*/*",
+        "*://getpocket.com/*"
+    ]
+}
